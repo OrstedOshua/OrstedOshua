@@ -10,8 +10,11 @@
     "hero",
     "about",
     "stack",
+    "projects",
     "stats",
-    "streak"
+    "streak",
+    "wave",
+    "buttons"
   ],
   "hidden": [],
   "hero": {
@@ -104,7 +107,11 @@
     "repos": [
       "WEB-lab1"
     ],
-    "overrides": {},
+    "overrides": {
+      "WEB-lab1": {
+        "text": "Web development laboratory project — interactive components & JavaScript"
+      }
+    },
     "empty": "No public projects yet.",
     "fork": "Fork"
   },
@@ -132,6 +139,13 @@
     "card": false
   },
   "buttons": {
-    "items": []
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/OrstedOshua?tab=repositories",
+        "style": "filled"
+      }
+    ]
   }
 }
