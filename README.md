@@ -1,21 +1,51 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hey there! I&#x27;m Orsted Oshua"></picture>
+<!-- Hero Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="850" alt="Hey, I'm Orsted Oshua">
+</picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.930%" alt=""></picture><a href="https://t.me/OrstedOshua"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://github.com/OrstedOshua"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.930%" alt=""></picture>
+<br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+<!-- Bento Grid Row 1: About Me & Tech Arsenal -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+        <img src="assets/about-light.svg" width="415" alt="About Me">
+      </picture>
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+        <img src="assets/stack-light.svg" width="415" alt="Tech Arsenal">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+<br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
-
-<a href="https://github.com/OrstedOshua?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Explore repositories"></picture></a>
-
-<a href="https://metawka.github.io/expressive-profile/?from=OrstedOshua"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+<!-- Bento Grid Row 2: GitHub Metrics & Streak Activity -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+        <img src="assets/stats-light.svg" width="545" alt="GitHub Metrics">
+      </picture>
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+        <img src="assets/streak-light.svg" width="285" alt="Streak Activity">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
