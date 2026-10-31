@@ -2,8 +2,8 @@
 
 <!-- Hero Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="850" alt="Hey, I'm Orsted Oshua">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bento-hero-dark.svg?v=2">
+  <img src="assets/bento-hero-light.svg?v=2" width="850" alt="Hey, I'm Orsted Oshua">
 </picture>
 
 <br><br>
@@ -13,15 +13,15 @@
   <tr>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-        <img src="assets/about-light.svg" width="415" alt="About Me">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-about-dark.svg?v=2">
+        <img src="assets/bento-about-light.svg?v=2" width="415" alt="About Me">
       </picture>
     </td>
     <td width="20"></td>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-        <img src="assets/stack-light.svg" width="415" alt="Tech Arsenal">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-dark.svg?v=2">
+        <img src="assets/bento-stack-light.svg?v=2" width="415" alt="Tech Arsenal">
       </picture>
     </td>
   </tr>
@@ -34,15 +34,15 @@
   <tr>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-        <img src="assets/stats-light.svg" width="545" alt="GitHub Metrics">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-stats-dark.svg?v=2">
+        <img src="assets/bento-stats-light.svg?v=2" width="545" alt="GitHub Metrics">
       </picture>
     </td>
     <td width="20"></td>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
-        <img src="assets/streak-light.svg" width="285" alt="Streak Activity">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-streak-dark.svg?v=2">
+        <img src="assets/bento-streak-light.svg?v=2" width="285" alt="Streak Activity">
       </picture>
     </td>
   </tr>

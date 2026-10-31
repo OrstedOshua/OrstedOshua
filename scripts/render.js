@@ -389,11 +389,11 @@ async function main() {
   const data = await fetchGitHubData();
 
   for (const [mode, theme] of Object.entries(THEMES)) {
-    writeFileSync(join("assets", `hero-${mode}.svg`), renderHero(theme), "utf8");
-    writeFileSync(join("assets", `about-${mode}.svg`), renderAbout(theme), "utf8");
-    writeFileSync(join("assets", `stack-${mode}.svg`), renderStack(theme), "utf8");
-    writeFileSync(join("assets", `stats-${mode}.svg`), renderStats(theme, data), "utf8");
-    writeFileSync(join("assets", `streak-${mode}.svg`), renderStreak(theme, data), "utf8");
+    writeFileSync(join("assets", `bento-hero-${mode}.svg`), renderHero(theme), "utf8");
+    writeFileSync(join("assets", `bento-about-${mode}.svg`), renderAbout(theme), "utf8");
+    writeFileSync(join("assets", `bento-stack-${mode}.svg`), renderStack(theme), "utf8");
+    writeFileSync(join("assets", `bento-stats-${mode}.svg`), renderStats(theme, data), "utf8");
+    writeFileSync(join("assets", `bento-streak-${mode}.svg`), renderStreak(theme, data), "utf8");
     console.log(`Rendered ${mode} theme SVGs.`);
   }
 
