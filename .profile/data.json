@@ -1,7 +1,7 @@
 {
- "key": "86c5c74b",
+ "key": "f5189468",
  "stars": 0,
- "contributions": 8,
+ "contributions": 9,
  "repos": 2,
  "followers": 0,
  "languages": [
@@ -125,7 +125,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 7,
     "day": 31,
     "today": true
    }
@@ -135,22 +135,21 @@
   "current": 1,
   "longest": 1
  },
- "pins": [
-  {
-   "name": "WEB-lab1",
-   "url": "https://github.com/OrstedOshua/WEB-lab1",
-   "text": "Web development laboratory project — interactive components & JavaScript",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  }
- ],
+ "pins": [],
  "all": [
   {
+   "name": "OrstedOshua",
+   "url": "https://github.com/OrstedOshua/OrstedOshua",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "WEB-lab1",
    "url": "https://github.com/OrstedOshua/WEB-lab1",
-   "text": "Web development laboratory project — interactive components & JavaScript",
+   "text": "",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
