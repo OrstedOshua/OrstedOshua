@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "login": "OrstedOshua",
+  "seed": "#7C3AED",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hey there! I'm",
+    "name": "Orsted Oshua",
+    "subtitle": "Software developer & web creator.\nCrafting sleek user experiences & exploring new tech.",
+    "typing": true,
+    "avatarShape": "squircle",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Open to collaborate"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · TypeScript · Web"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer passionate about building cool web projects"
+      },
+      {
+        "icon": "code",
+        "label": "Focused on modern frontend & fullstack technologies"
+      },
+      {
+        "icon": "palette",
+        "label": "Creating responsive, clean and expressive interfaces"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Continuously exploring new tools and frameworks"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Core & Web",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css3",
+            "label": "CSS3"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          }
+        ]
+      },
+      {
+        "title": "Tools & Ecosystem",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VS Code"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "all",
+    "repos": [
+      "WEB-lab1"
+    ],
+    "overrides": {},
+    "empty": "Projects in progress.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/OrstedOshua"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/OrstedOshua"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "Explore repositories",
+        "url": "https://github.com/OrstedOshua?tab=repositories",
+        "style": "filled"
+      }
+    ]
+  }
+}
