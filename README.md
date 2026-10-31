@@ -1,51 +1,41 @@
 <div align="center">
 
-<!-- Hero Header Banner -->
+<!-- Hero Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bento-hero-dark.svg?v=2">
-  <img src="assets/bento-hero-light.svg?v=2" width="850" alt="Hey, I'm Orsted Oshua">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-hero-dark.svg">
+  <img src="assets/m3-hero-light.svg" width="100%" alt="Hey there! I'm Orsted Oshua">
 </picture>
 
 <br><br>
 
-<!-- Bento Grid Row 1: About Me & Tech Arsenal -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-about-dark.svg?v=2">
-        <img src="assets/bento-about-light.svg?v=2" width="415" alt="About Me">
-      </picture>
-    </td>
-    <td width="20"></td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-dark.svg?v=2">
-        <img src="assets/bento-stack-light.svg?v=2" width="415" alt="Tech Arsenal">
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- About Me -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-about-dark.svg">
+  <img src="assets/m3-about-light.svg" width="100%" alt="About me">
+</picture>
 
-<br>
+<br><br>
 
-<!-- Bento Grid Row 2: GitHub Metrics & Streak Activity -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-stats-dark.svg?v=2">
-        <img src="assets/bento-stats-light.svg?v=2" width="545" alt="GitHub Metrics">
-      </picture>
-    </td>
-    <td width="20"></td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/bento-streak-dark.svg?v=2">
-        <img src="assets/bento-streak-light.svg?v=2" width="285" alt="Streak Activity">
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- Tech Stack -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-stack-dark.svg">
+  <img src="assets/m3-stack-light.svg" width="100%" alt="Tech stack">
+</picture>
+
+<br><br>
+
+<!-- GitHub Activity -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-stats-dark.svg">
+  <img src="assets/m3-stats-light.svg" width="100%" alt="GitHub activity">
+</picture>
+
+<br><br>
+
+<!-- Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-streak-dark.svg">
+  <img src="assets/m3-streak-light.svg" width="100%" alt="Streak">
+</picture>
 
 </div>

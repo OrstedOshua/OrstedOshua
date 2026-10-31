@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="130" viewBox="0 0 840 130" fill="none">
+  <!-- Карточка -->
+  <rect width="840" height="130" rx="24" fill="#FFFFFF" stroke="#E7E0EC" stroke-width="1.5" />
+
+  <!-- Заголовок секции -->
+  <g transform="translate(36, 26)">
+    <circle cx="10" cy="10" r="10" fill="#FCE4EC" />
+    <circle cx="10" cy="10" r="4" fill="#D81B60" />
+    <text x="28" y="16" font-family="'Segoe UI', system-ui, sans-serif" font-size="18px" font-weight="700" fill="#1D192B">Streak</text>
+  </g>
+
+  <!-- Блок текущего стрика -->
+  <g transform="translate(36, 62)">
+    <rect width="374" height="48" rx="14" fill="#F7F2FA" />
+    <!-- Иконка огня -->
+    <circle cx="24" cy="24" r="14" fill="#FCE4EC" />
+    <path d="M 24 16 L 20 23 L 24 23 L 23 31 L 28 22 L 25 22 Z" fill="#D81B60" />
+    <text x="48" y="29" font-family="'Segoe UI', system-ui, sans-serif" font-size="18px" font-weight="800" fill="#D81B60">1 <tspan font-size="13px" font-weight="600" fill="#1D192B">days current streak</tspan></text>
+  </g>
+
+  <!-- Блок лучшего стрика -->
+  <g transform="translate(430, 62)">
+    <rect width="374" height="48" rx="14" fill="#F7F2FA" />
+    <!-- Иконка трофея -->
+    <circle cx="24" cy="24" r="14" fill="#ECE6F0" />
+    <polygon points="19,18 29,18 27,25 21,25" fill="#7B1FA2" />
+    <rect x="23" y="25" width="2" height="4" fill="#7B1FA2" />
+    <rect x="21" y="29" width="6" height="2" fill="#7B1FA2" />
+    <text x="48" y="29" font-family="'Segoe UI', system-ui, sans-serif" font-size="18px" font-weight="800" fill="#1D192B">1 <tspan font-size="13px" font-weight="600" fill="#49454F">days longest this year</tspan></text>
+  </g>
+</svg>
