@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "login": "OrstedOshua",
+  "seed": "#8E24AA",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "stats",
+    "streak"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hey there! I'm",
+    "name": "Orsted Oshua",
+    "subtitle": "Software developer & web creator.",
+    "typing": true,
+    "avatarShape": "squircle",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · TypeScript · Web"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Modern frontend & UI"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Learning new technologies"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Core & Web",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css3",
+            "label": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VS Code"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "all",
+    "repos": [
+      "WEB-lab1"
+    ],
+    "overrides": {},
+    "empty": "No public projects yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  },
+  "buttons": {
+    "items": []
+  }
+}
