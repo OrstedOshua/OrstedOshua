@@ -103,7 +103,7 @@
     ]
   },
   "projects": {
-    "source": "all",
+    "source": "manual",
     "repos": [
       "WEB-lab1"
     ],
