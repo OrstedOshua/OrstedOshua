@@ -1,21 +1,21 @@
 {
- "key": "6a5bfbd4",
+ "key": "39020ffb",
  "stars": 0,
- "contributions": 10,
- "repos": 2,
+ "contributions": 20,
+ "repos": 7,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   6058
+   52505
   ],
   [
    "CSS",
-   2272
+   25818
   ],
   [
    "HTML",
-   359
+   2125
   ]
  ],
  "days": [
@@ -125,18 +125,63 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 10,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 1
  },
  "pins": [],
  "all": [
+  {
+   "name": "movie-search",
+   "url": "https://github.com/OrstedOshua/movie-search",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "my-catalog",
+   "url": "https://github.com/OrstedOshua/my-catalog",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "sale-calculator",
+   "url": "https://github.com/OrstedOshua/sale-calculator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "feedback-form",
+   "url": "https://github.com/OrstedOshua/feedback-form",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "my-grid-demo",
+   "url": "https://github.com/OrstedOshua/my-grid-demo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "OrstedOshua",
    "url": "https://github.com/OrstedOshua/OrstedOshua",
