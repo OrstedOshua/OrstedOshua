@@ -105,11 +105,20 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "WEB-lab1"
+      "dsh-api-cost",
+      "movie-search-lab7",
+      "nexus-studio"
     ],
     "overrides": {
-      "WEB-lab1": {
-        "text": "Web development laboratory project — interactive components & JavaScript"
+      "dsh-api-cost": {
+        "text": "DSH IP cost — API token cost tracker for DeepSeek Harness: per-chat cost, configurable prices, currency + language selectors, live exchange rates."
+      },
+      "movie-search-lab7": {
+        "text": "Movie Search Lab 7 — laboratory work: movie search web app."
+      },
+      "nexus-studio": {
+        "text": "Nexus Studio — private/closed project (WIP).",
+        "icon": "lock"
       }
     },
     "empty": "No public projects yet.",
