@@ -1,13 +1,13 @@
 {
- "key": "3d72aabb",
+ "key": "c83a33f6",
  "stars": 0,
- "contributions": 25,
- "repos": 8,
+ "contributions": 26,
+ "repos": 9,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   62885
+   100846
   ],
   [
    "CSS",
@@ -105,7 +105,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 17,
     "today": true
    },
@@ -116,11 +116,22 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 1
  },
  "pins": [],
  "all": [
+  {
+   "name": "dsh-api-cost",
+   "url": "https://github.com/OrstedOshua/dsh-api-cost",
+   "text": "API cost tracker for DeepSeek Harness: per-chat token cost, configurable prices, currency+language selectors, live exchange rates.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "dsh-plugin"
+   ]
+  },
   {
    "name": "movie-search-lab7",
    "url": "https://github.com/OrstedOshua/movie-search-lab7",
