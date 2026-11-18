@@ -1,8 +1,8 @@
 {
- "key": "b550bacf",
+ "key": "4922c55d",
  "stars": 0,
- "contributions": 27,
- "repos": 9,
+ "contributions": 28,
+ "repos": 10,
  "followers": 0,
  "languages": [
   [
@@ -114,7 +114,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 18,
     "today": true
    },
@@ -124,11 +124,20 @@
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [],
  "all": [
+  {
+   "name": "awesome-dsh-plugin",
+   "url": "https://github.com/OrstedOshua/awesome-dsh-plugin",
+   "text": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "dsh-api-cost",
    "url": "https://github.com/OrstedOshua/dsh-api-cost",
