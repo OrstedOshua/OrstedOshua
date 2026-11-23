@@ -1,5 +1,5 @@
 {
- "key": "cadbca02",
+ "key": "7cb8d7c3",
  "stars": 0,
  "contributions": 30,
  "repos": 10,
@@ -101,9 +101,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
